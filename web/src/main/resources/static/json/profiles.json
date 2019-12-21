@@ -1,0 +1,26 @@
+[
+  {
+    "id": null,
+    "name": "ALFA",
+    "batteryThreshold": 3333,
+    "diagonalThreshold": "INCH_5_2",
+    "isWifiThreshold": true,
+    "isJackThreshold": false,
+    "isUSBThreshold": false,
+    "romThreshold": "GB_4",
+    "ramThreshold": "GB_8"
+  },
+  {
+    "id": null,
+    "name": "BETA",
+    "batteryThreshold": 2234,
+    "diagonalThreshold": "INCH_4_7",
+    "isWifiThreshold": false,
+    "isJackThreshold": true,
+    "isUSBThreshold": true,
+    "romThreshold": "GB_16",
+    "ramThreshold": "GB_8"
+  }
+]
+
+

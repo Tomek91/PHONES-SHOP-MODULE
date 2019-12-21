@@ -1,0 +1,67 @@
+[
+  {
+    "id": null,
+    "name": "ADMIN",
+    "surname": "ADMIN",
+    "birthday": "1995-02-02",
+    "userName": "aa",
+    "password": "aa",
+    "email": "aa@.pl",
+    "active": true,
+    "locked": false,
+    "registrationDate": "2014-03-03",
+    "roleDTO": {
+      "id": null,
+      "name": "ROLE_ADMIN"
+      }
+  },
+  {
+    "id": null,
+    "name": "OLA",
+    "surname": "WALC",
+    "birthday": "1990-02-02",
+    "userName": "ow",
+    "password": "ow",
+    "email": "ow@.pl",
+    "active": true,
+    "locked": false,
+    "registrationDate": "2018-03-03",
+    "roleDTO": {
+      "id": null,
+      "name": "ROLE_USER"
+      }
+  },
+  {
+    "id": null,
+    "name": "WOJTEK",
+    "surname": "NOWAK",
+    "birthday": "1986-11-11",
+    "userName": "wn",
+    "password": "wn",
+    "email": "wn@.pl",
+    "active": true,
+    "locked": false,
+    "registrationDate": "2017-10-10",
+    "roleDTO": {
+      "id": null,
+      "name": "ROLE_USER"
+      }
+  },
+  {
+    "id": null,
+    "name": "MARCIN",
+    "surname": "SIKORSKI",
+    "birthday": "1976-04-13",
+    "userName": "ms",
+    "password": "ms",
+    "email": "ms@.pl",
+    "active": true,
+    "locked": false,
+    "registrationDate": "2017-04-11",
+    "roleDTO": {
+      "id": null,
+      "name": "ROLE_USER"
+      }
+  }
+]
+
